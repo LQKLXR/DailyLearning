@@ -4,5 +4,9 @@ spring:
     port: 6379
     client-type: lettuce
 
+
   main:
     allow-bean-definition-overriding: true
+server:
+  servlet:
+    context-path: /redis
