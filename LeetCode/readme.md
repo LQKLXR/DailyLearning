@@ -14,3 +14,12 @@ LexicalOrder.java
 https://leetcode-cn.com/problems/lexicographical-numbers/submissions/
 深度优先搜索
 ```
+## 20200420 文件的最长绝对路径
+```text
+LengthLongestPath.gava
+https://leetcode-cn.com/problems/longest-absolute-file-path/
+把文件分层：一层、二层、三层。
+用栈来存储每一层的文件名。
+根据当前层和上一层的层数差异，调整栈里面的内容。
+遇到文件，就统计全路径名称，与当前最常路径做对比。
+```
