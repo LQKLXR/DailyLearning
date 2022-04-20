@@ -28,7 +28,7 @@ public class LexicalOrder {
     }
 
     public static void main(String[] args) {
-        List<Integer> integers = lexicalOrder(13);
+        List<Integer> integers = lexicalOrder(333);
         for (int i = 0; i < integers.size(); i++) {
             System.out.print(integers.get(i) + " ");
         }
