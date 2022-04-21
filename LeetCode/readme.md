@@ -23,3 +23,9 @@ https://leetcode-cn.com/problems/longest-absolute-file-path/
 根据当前层和上一层的层数差异，调整栈里面的内容。
 遇到文件，就统计全路径名称，与当前最常路径做对比。
 ```
+## 20200421 山羊拉丁文
+```text
+ToGoatLatin.java
+https://leetcode-cn.com/problems/goat-latin/
+拆分字符串慢慢处理即可
+```
