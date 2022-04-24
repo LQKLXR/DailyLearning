@@ -16,7 +16,7 @@ https://leetcode-cn.com/problems/lexicographical-numbers/submissions/
 ```
 ## 20200420 文件的最长绝对路径
 ```text
-LengthLongestPath.gava
+LengthLongestPath.java
 https://leetcode-cn.com/problems/longest-absolute-file-path/
 把文件分层：一层、二层、三层。
 用栈来存储每一层的文件名。
@@ -28,4 +28,11 @@ https://leetcode-cn.com/problems/longest-absolute-file-path/
 ToGoatLatin.java
 https://leetcode-cn.com/problems/goat-latin/
 拆分字符串慢慢处理即可
+```
+
+## 20200424 二进制间距
+```text
+BinaryGap.java
+https://leetcode-cn.com/problems/binary-gap/
+位运算逐位往右移，统计上次出现1的坐标，做差，取最大差
 ```
