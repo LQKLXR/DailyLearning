@@ -36,3 +36,12 @@ BinaryGap.java
 https://leetcode-cn.com/problems/binary-gap/
 位运算逐位往右移，统计上次出现1的坐标，做差，取最大差
 ```
+
+## 20220425 随机数索引
+```text
+RandomIndex.java
+https://leetcode-cn.com/problems/random-pick-index/
+用水塘抽样算法，从一个N长度的数组中，随即返回一个值等于target的下标
+
+【重要】水塘抽样算法
+```
